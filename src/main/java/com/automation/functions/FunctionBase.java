@@ -1,6 +1,6 @@
 package com.automation.functions;
 
-import com.automation.pages.SeleniumTestBase;
+import com.automation.testbase.SeleniumTestBase;
 import org.openqa.selenium.WebDriver;
 
 public class FunctionBase extends SeleniumTestBase {
