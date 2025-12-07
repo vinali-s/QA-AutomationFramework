@@ -1,6 +1,6 @@
 package com.automation.pages.commons;
 
-import com.automation.pages.SeleniumTestBase;
+import com.automation.testbase.SeleniumTestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
